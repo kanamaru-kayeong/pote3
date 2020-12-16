@@ -1,0 +1,19 @@
+body {
+  display: block;
+  text-align: start;
+  margin-left: 5%;
+}
+
+button {
+  padding: 10px;
+  font-weight: bold;
+}
+
+#timer {
+  padding: 1%;
+  font-size: 30px;
+}
+
+#buttons {
+  margin-top: 20px;
+}
